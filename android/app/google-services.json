@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "186947943827",
+    "firebase_url": "https://tracer-upn.firebaseio.com",
+    "project_id": "tracer-upn",
+    "storage_bucket": "tracer-upn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186947943827:android:5a9eba986645db6e35bc66",
+        "android_client_info": {
+          "package_name": "com.upn.veteran.tracer_upn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186947943827-ehf3h1fgcjaqajomgk51jo0sm0a9qdeg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFrDi1YJ9zLRquCMDpEIGpVK3AGFdQbA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186947943827-ehf3h1fgcjaqajomgk51jo0sm0a9qdeg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
